@@ -4,11 +4,8 @@ turtle.speed(5)
 
 win = turtle.Screen()
 win.title("BaRzIn")
-win.bgcolor("#2FD6AF")
-
 
 turtle.bgcolor("#2F50D6")
-
 
 #B
 turtle.goto(-400, 0)
@@ -85,7 +82,6 @@ turtle.right(155)
 turtle.forward(116)
 turtle.right(205)
 turtle.forward(106)
-
 
 turtle.done()
 
